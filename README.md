@@ -12,7 +12,7 @@ Official GitHub for the Warsaw, Poland Map Mod for Cities: Skylines II
    `Flatland.cok` and `Flatland.cok.cid`
 
 **Important: Due to some technical errors, please download the `.cok` and the `.cok.cid` files from Thunderstore, just click on "Manual Install" as that has all the files needed, GitHub is not willing to work.**
-[Click here to visit the Thunderstore download page](https://thunderstore.io/c/cities-skylines-ii/p/toolify/UltimateOneTileIsland/)
+[Click here to visit the Thunderstore download page](https://thunderstore.io/c/cities-skylines-ii/p/toolify/WarsawPoland/)
 
 3. You should be done! Hop into the game (with your mods enabled) and create a new game, and then pick the map! Have fun!
 
